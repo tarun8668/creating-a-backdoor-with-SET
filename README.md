@@ -47,8 +47,8 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ![7 8](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/cd50ce7e-5b84-4cd7-bb6f-f0caed7fdea9)
 
+![image](https://github.com/user-attachments/assets/387005d8-c3b0-41a9-b308-5dbc9632bc35)
 
-![7 9](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/6a0d812e-0f5b-4ae7-b17e-d912fbf13f78)
 
 
 
